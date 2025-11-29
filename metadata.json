@@ -1,0 +1,8 @@
+{
+  "name": "Second Brain AI",
+  "description": "Your personal AI knowledge base. Upload ideas, screenshots, or articles. The AI automatically organizes, tags, and connects them, allowing you to ask questions and retrieve specific information effortlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
